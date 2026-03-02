@@ -13,3 +13,6 @@ Las tecnologias usadas han sido:
 
 ## 🖥️¿Como ejecutarlo?
 Para ejecutar nuestro programa deberemos tener instalado el ID InteliJ. Cuando tengamos el proyecto descargado, solo deberemos importarlo y lazar el programa.
+
+## Grafo y prueba de caja blanca
+<img width="802" height="1869" alt="SaulGonzalezNavarroCajaBlanca drawio" src="https://github.com/user-attachments/assets/06939318-26e3-4618-9c99-25c659826f4c" />
